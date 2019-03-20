@@ -1,0 +1,26 @@
+package assignment01;
+
+import java.util.*;
+ 
+ public class GenericStack <object>  {
+	 
+ 
+    
+ 
+    public void push (object item) {
+       
+    }
+ 
+    
+    public object pop () {
+      
+    }
+ 
+    
+    public boolean isEmpty()
+    {
+      
+    }
+    
+    
+ }
